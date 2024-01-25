@@ -11,12 +11,12 @@ The main focus of this module is to work in a team and collaboratively design an
 
 ## Timeline
 
-| Phase | Name              | Summary                                                                                 | Suggested Timeframe |
-| ----- | :---------------- | :-------------------------------------------------------------------------------------- | :------------------ |
-| 1     | Ideas & Grouping  | Introduction to final project, forming groups, finding ideas and preparing requirements | 2 days              |
-| 2     | Design & Planning | Creating user stories, wireframes / mockups, and preparing database entities            | 2 days              |
-| 3     | Implementation    | Coding the application                                                                  | 18-20 days          |
-| 4     | Presentation      | Tying up loose ends, fixing bugs and preparing for the presentation                     | 4 days              |
+| Phase | Name                                    | Summary                                                                                 | Suggested Timeframe |
+| ----- | :-------------------------------------- | :-------------------------------------------------------------------------------------- | :------------------ |
+| 1     | [Ideas & Grouping](./PHASE_1/README.md) | Introduction to final project, forming groups, finding ideas and preparing requirements | 2 days              |
+| 2     | Design & Planning                       | Creating user stories, wireframes / mockups, and preparing database entities            | 2 days              |
+| 3     | Implementation                          | Coding the application                                                                  | 18-20 days          |
+| 4     | Presentation                            | Tying up loose ends, fixing bugs and preparing for the presentation                     | 4 days              |
 
 ## Examples of previous projects
 
