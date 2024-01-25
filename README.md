@@ -7,7 +7,8 @@ The main focus of this module is to work in a team and collaboratively design an
 ## Key points
 
 - Each group will have a minimum of 3 and a maximum of 5 participants
-- Solo projects will not be allowed to present in the final event
+- In line with DCI's policy, only collaborative projects will be presented in the final event. 
+- Additionally, solo projects will not be acknowledged on the certificates.
 
 ## Timeline
 
