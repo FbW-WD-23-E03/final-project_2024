@@ -313,7 +313,6 @@ In a nutshell, Git branches allow developers to diverge from the main branch by 
 - [Learn Git Branching visually](https://www.atlassian.com/git/tutorials/saving-changes)
 - [Git and Github Visualized (video about the game in the link above)](https://www.youtube.com/watch?v=p384Hw2eewA)
 - [What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#what_is_git_section)
-- [Saving changes](https://www.atlassian.com/git/tutorials/saving-changes)
 - [Git Behind the Scenes: How Does Git Work (video)](https://www.youtube.com/watch?v=gzJk1ruqSok)
 - [Deleting your git commit history without removing repo on Github](https://www.willandskill.se/en/deleting-your-git-commit-history-without-removing-repo-on-github-bitbucket/)
 <br/>
