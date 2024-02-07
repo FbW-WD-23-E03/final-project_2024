@@ -267,12 +267,12 @@ git pull origin main
 
 # Git Branching
 
-In a nutshell, Git branches allow developers to diverge from the main branch by creating separate branches to isolate code changes. The default branch in Git is the master branch and any other branch we create is referred to as a feature branch and we have the permission to name it whatever we want.
+In a nutshell, Git branches allow developers to diverge from the main branch by creating separate branches to isolate code changes. The default branch in Git is the main branch and any other branch we create is referred to as a feature branch and we have the permission to name it whatever we want.
 
 <br/>
 
 > If you initalize you repository locally, the default branch will be called master.
-> GitHub replaced the term "master" on its service with a neutral term like "main" to avoid any unnecessary references to slaver.
+> GitHub replaced the term "master" on its service with a neutral term like "main" to avoid any unnecessary references to slavery.
 
 <br/>
 
