@@ -144,8 +144,6 @@ zkh@zkh ~/Desktop/square (main) $ git remote -v
 
 > Before starting with Github make sure to authenticate your computer with the remote server (Github) for a secure connection
 
-> > Check the other readme.file `ssh.README.md`
-
 <br/>
 
 ## There are two ways to start working with Github:
